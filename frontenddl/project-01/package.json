@@ -1,0 +1,41 @@
+{
+  "name": "project-01",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.1",
+    "axios": "^1.18.0",
+    "chart.js": "^4.5.1",
+    "html2canvas": "^1.4.1",
+    "html2canvas-pro": "^2.0.4",
+    "jspdf": "^4.2.1",
+    "react": "^19.1.1",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.17.0",
+    "react-webcam": "^7.2.0",
+    "recharts": "^3.8.1",
+    "socket.io-client": "^4.8.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^5.0.0",
+    "autoprefixer": "^10.5.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.1",
+    "vite": "^7.1.2"
+  }
+}

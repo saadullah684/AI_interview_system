@@ -25,7 +25,7 @@ load_dotenv()
 
 load_dotenv()
 
-GROQ_API_KEY = os.getenv("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")
+GROQ_API_KEY = os.getenv("api_key_here")
 
 print("GROQ KEY:", GROQ_API_KEY)
 
